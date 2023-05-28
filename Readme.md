@@ -1,6 +1,6 @@
 # About Me
 
-![Profile Picture](profile.jpg)
+![Profile Picture](profile.jpeg)
 
 Hey there! 👋 My name is Yaniv, and I'm a music producer and coding enthusiast. 🎵💻 I'm passionate about creating both beats and code.
 
